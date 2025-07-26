@@ -27,21 +27,21 @@ This project is an interactive web app built with [Streamlit](https://streamlit.
 
 Here are some important graphs from the analysis and model evaluation:
 
-![Boxplots](https://github.comjuanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Boxplots.png)
+![Boxplots](https://github.comjuanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/Boxplots.png)
 
-![Confusion Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Confusion_matrix.png)
+![Confusion Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/Confusion_matrix.png)
 
-![Correlation Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Correlation_matrix.png)
+![Correlation Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/iMachine%20Learning/Correlation_matrix.png)
 
-![Histograms](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Histograms.png)
+![Histograms](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/Histograms.png)
 
-![Pairplots](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Pairplots.png)
+![Pairplots](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/Pairplots.png)
 
-![Precision Curve](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Precision_curve.png)
+![Precision Curve](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/Precision_curve.png)
 
-![ROC Curve](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/ROC_curve.png)
+![ROC Curve](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/ROC_curve.png)
 
-![Select Model](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/select_model.png)
+![Select Model](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/select_model.png)
 
 ## 📦 Requirements
 
