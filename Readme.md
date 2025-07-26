@@ -41,7 +41,7 @@ Here are some important graphs from the analysis and model evaluation:
 
 ![Pairplots](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/Pairplots.png)
 
-![Correlation Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/iMachine%20Learning/Correlation_matrix.png)
+![Correlation Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/Machine%20Learning/Correlation_matrix.png)
 
 
 ## 📦 Requirements
