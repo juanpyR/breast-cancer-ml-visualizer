@@ -22,6 +22,26 @@ This project is an interactive web app built with [Streamlit](https://streamlit.
   - Pairplot
   - Correlation heatmap
   - High and low correlation summaries
+ 
+## 📊 Visualizations
+
+Here are some important graphs from the analysis and model evaluation:
+
+![Boxplots](https://github.comjuanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Boxplots.png)
+
+![Confusion Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Confusion_matrix.png)
+
+![Correlation Matrix](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Correlation_matrix.png)
+
+![Histograms](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Histograms.png)
+
+![Pairplots](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Pairplots.png)
+
+![Precision Curve](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/Precision_curve.png)
+
+![ROC Curve](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/ROC_curve.png)
+
+![Select Model](https://github.com/juanpyR/breast-cancer-ml-visualizer/raw/main/imagenes/select_model.png)
 
 ## 📦 Requirements
 
