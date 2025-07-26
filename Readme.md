@@ -68,8 +68,8 @@ pip install streamlit pandas numpy scikit-learn matplotlib seaborn
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/breast-cancer-ml-app.git
-cd breast-cancer-ml-app
+git clone https://github.com/juanpyR/breast-cancer-ml-visualizer.git
+cd breast-cancer-ml-visualizer
 ```
 
 2. Install dependencies:
@@ -90,7 +90,7 @@ pip install streamlit pandas numpy scikit-learn matplotlib seaborn
 streamlit run breast_cancer.py
 ```
 
-4. The app will open automatically at `http://localhost:8501` in your browser.
+4. The app will open automatically at `http://localhost:8501` (or another available port) in your browser.
 
 ## 📊 Supported Models
 
